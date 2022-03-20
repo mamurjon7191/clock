@@ -1,1 +1,1 @@
-# clock
+# MagicSoft Group (JavaScript)
